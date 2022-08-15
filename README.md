@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Yozao
+- 👀 I’m interested in control theory
+- 🌱 I’m currently learning Linear Matrix Inequalities in dead-time processes
